@@ -21,7 +21,7 @@ Esse git tem a missão de ajudar o proximo com conhecimentos adquiridos do meu e
 ##  
   
 <div>
-  <a href="www.linkedin.com/in/renatoticloud" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/renatoticloud?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Ba8XKBP%2F6SNWSmbS%2Fiuo72w%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:renato.rossi.ferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
