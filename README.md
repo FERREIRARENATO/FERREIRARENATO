@@ -1,4 +1,6 @@
 ### Olá! Eu sou o Renato Rossi Ferreira
+Sou novo nesse mundo Git. Meu profile foi criado em 2022. 
+Esse git tem a missão de ajudar o proximo com conhecimentos adquiridos do meu estudo com as ferramentas do mercado.
 
 ##
 
