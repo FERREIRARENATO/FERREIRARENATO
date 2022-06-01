@@ -16,7 +16,7 @@ Esse git tem a missão de ajudar o proximo com conhecimentos adquiridos do meu e
    <img align="center" alt="Rena-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
    <img align="center" alt="Rena-Ubuntu" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
    <img align="center" alt="Rena-Vagrant" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg">
-   <img align="center" alt="Rena-Zabbix" height="30" width="40" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-ar21.svg">
+   <img align="center" alt="Rena-Zabbix" height="30" width="40" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg">
  </div>  
   
 ##  
